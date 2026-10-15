@@ -1,4 +1,4 @@
-```python
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -149,4 +149,4 @@ print("- Accuracy values are hypothetical.")
 print("- EEG signal and noise are synthetically generated.")
 print("- No actual ICA algorithm is implemented.")
 print("- These plots must not be reported as validated experimental results.")
-```
+
